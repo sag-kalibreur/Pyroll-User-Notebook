@@ -9,7 +9,7 @@ python-pptx
 pyroll-basic
 pyroll-marini-spreading
 pyroll-from-dict
-kaleido==0.1.0.post1
+kaleido
 ipykernel
 shapely
 plotly
