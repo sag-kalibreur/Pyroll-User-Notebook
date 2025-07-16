@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+jupyter
+notebook
+scipy
+openpyxl
+python-pptx
+pyroll-basic
+pyroll-marini-spreading
+pyroll-from-dict
+kaleido==0.1.0.post1
+ipykernel
+shapely
+plotly
