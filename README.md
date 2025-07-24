@@ -1,13 +1,14 @@
-# 🧪 Pyroll-User-Notebook
+# 🧪 Pyroll User Notebook Finishing Block Test
 
-Ein interaktives Jupyter-Notebook Template zur Simulation und Analyse von Walzwerkprozessen mit dem Python-Framework **Pyroll**.  
-Dieses Repository bietet eine benutzerfreundliche Umgebung für Ingenieur:innen, Forschende und Studierende, um Walzprozesse zu modellieren, zu visualisieren und zu dokumentieren.
+An interactive Jupyter notebook template for simulating and analysing rolling mill processes with the Python framework **Pyroll**.
+This repository provides a user-friendly environment for engineers, researchers and students to model, visualise and document rolling processes.
+Test notebook for a prefinishing/sizing block combination.
 
 ---
 
 ## 🚀 Installation
 
-1. Klone das Repository:
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/sag-kalibreur/Pyroll-User-Notebook.git
