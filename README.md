@@ -1,6 +1,6 @@
 # 🧪 Pyroll-User-Notebook
 
-Ein interaktives Jupyter-Notebook Template zur Simulation und Analyse von Walzwerkprozessen mit demm Python-Framework **Pyroll**.  
+Ein interaktives Jupyter-Notebook Template zur Simulation und Analyse von Walzwerkprozessen mit dem Python-Framework **Pyroll**.  
 Dieses Repository bietet eine benutzerfreundliche Umgebung für Ingenieur:innen, Forschende und Studierende, um Walzprozesse zu modellieren, zu visualisieren und zu dokumentieren.
 
 ---
